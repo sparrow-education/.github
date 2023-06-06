@@ -1,12 +1,26 @@
-## Hi there 👋
+# Jack - Education 
 
-<!--
+### Høyskolen Kristiania - Frontend & App Development
 
-**Here are some ideas to get you started:**
+#### First Semester
+- [PRO105, Creative Web Project - Exam]() (✓)
+- [PGR102, Introduction to Programming - Exam]() (✓)
+- [TK1104, Digital Technology - Exam]() (✓)
+- [DB1102, Database - Exam]() (✓)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Second Semester
+- [PGR110, Visual Analytics - Exam]() (✓)
+- [PGR112, Objectoriented Programming - Exam]() (✓)
+- [TK2100, Information Security - Exam]() (✓)
+  - [TK2100, Assignment]() 
+
+#### Third Semester
+- [DS3103, Web Development - Exam]() (A)
+  - [DS3103, Assignment]()
+- [PGR208, Android Programming]() (A)
+- [DS3302, UI/UX]() (C)
+
+#### Fourth Semester
+- [PGR4200, Algorithm and Datastructure - Exam](https://github.com/sparrow-education/PG4200-AlgDat) (A)
+- [PGR107, Python - Exam]() (A)
+  - [PGR107, Assignment]()
