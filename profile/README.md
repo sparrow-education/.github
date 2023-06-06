@@ -3,7 +3,7 @@
 ### Høyskolen Kristiania - Frontend & App Development
 
 #### First Semester
-- [PRO105, Creative Web Project - Exam]() (✓)
+- [PRO105, Creative Web Project - Exam](https://github.com/sparrow-education/PRO105-CreativeWeb) (✓)
   - [PRO105, Assignment](https://github.com/sparrow-education/PRO105-Assignment) (✓)
 - [PGR102, Introduction to Programming - Exam](https://github.com/sparrow-education/PGR102-Intro-to-Programming) (✓)
 - [TK1104, Digital Technology - Exam](https://github.com/sparrow-education/TK1104-Digital-Technology) (✓)
