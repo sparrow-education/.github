@@ -24,7 +24,7 @@
 
 #### Fourth Semester
 - [PGR4200, Algorithm and Datastructure - Exam](https://github.com/sparrow-education/PG4200-AlgDat) (A)
-- [PGR107, Python - Exam](https://github.com/sparrow-education/PGR107-Python) (A)
+- [PGR107, Python - Exam](https://github.com/sparrow-education/PGR107-Python-Exam) (A)
   - [PGR107, Assignment](https://github.com/sparrow-education/PGR107-Assignment) (✓)
 - [PRO202, Agile Project ArtQuest - Exam (Client)](https://github.com/sparrow-education/PRO202-Agile-Client) (A)
 - [PRO202, Agile Project ArtQuest - Exam (Server)](https://github.com/sparrow-education/PRO202-Agile-Server) (^)
