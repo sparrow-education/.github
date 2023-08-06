@@ -12,7 +12,7 @@
 
 #### Second Semester
 - [PGR110, Visual Analytics - Exam](https://github.com/sparrow-education/PGR110-Visual-Analytics) (✓)
-- [PGR112, Objectoriented Programming - Exam](https://github.com/sparrow-education/PGR112-OOP) (✓)
+- [PGR112, Object-oriented Programming - Exam](https://github.com/sparrow-education/PGR112-OOP) (✓)
 - [TK2100, Information Security - Exam](https://github.com/sparrow-education/TK2100-InfoSec) (✓)
   - [TK2100, Assignment](https://github.com/sparrow-education/TK2100-Assignment) (✓)
 
@@ -28,3 +28,7 @@
   - [PGR107, Assignment](https://github.com/sparrow-education/PGR107-Assignment) (✓)
 - [PRO202, Agile Project ArtQuest - Exam (Client)](https://github.com/sparrow-education/PRO202-Agile-Client) (A)
 - [PRO202, Agile Project ArtQuest - Exam (Server)](https://github.com/sparrow-education/PRO202-Agile-Server) (^)
+
+---
+### Teaching Assistant
+- [PGR112, Object-oriented Programming](https://github.com/sparrow-education/PGR112-TAOOP)
