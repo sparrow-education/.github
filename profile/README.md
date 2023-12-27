@@ -29,6 +29,10 @@
 - [PRO202, Agile Project ArtQuest - Exam (Client)](https://github.com/sparrow-education/PRO202-Agile-Client) (A)
 - [PRO202, Agile Project ArtQuest - Exam (Server)](https://github.com/sparrow-education/PRO202-Agile-Server) (^)
 
+#### Fifth Semester
+- [PG5602, iOS Development - Exam]("https://github.com/sparrow-education/PG5602-iOS") (A)
+- [PJ6100, Research Methods - Exam]("https://github.com/sparrow-education/PJ6100-Research-Methods") (C)
+
 ---
 ### Teaching Assistant
 - [PGR112, Object-oriented Programming](https://github.com/sparrow-education/PGR112-TAOOP)
